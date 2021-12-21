@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Adhithya
-- 👀 I’m interested in SwiftUI, Jetpack Compose, & React
-- 🌱 I’m currently learning Jetpack Compose
+- 👋  Hi, I’m Adhithya
+- 👀  I’m interested in SwiftUI, Jetpack Compose, & React
+- 🌱  I’m currently learning Jetpack Compose
 
 <!---
 adhithya90/adhithya90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
