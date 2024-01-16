@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Adhithya
-- 👀  I’m interested in SwiftUI, Jetpack Compose, & React
+- 👀  I’m interested in SwiftUI, VisionOS, Jetpack Compose, & React
 - 🌱  I’m currently learning Jetpack Compose
 
 <!---
