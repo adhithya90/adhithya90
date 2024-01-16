@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Adhithya
 - 👀  I’m interested in SwiftUI, VisionOS, Jetpack Compose, & React
-- 🌱  I’m currently learning Jetpack Compose
+- 🌱  I’m currently learning Jetpack Compose & VisionOS
 
 <!---
 adhithya90/adhithya90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
